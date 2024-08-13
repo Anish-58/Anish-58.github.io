@@ -1,3 +1,5 @@
-# Anish-58.github.io
+# Personal Website Template
 
-# My Personal Website
+Description: A beginner-friendly personal website template with helpful comments.
+
+Fork this repository and edit away!
